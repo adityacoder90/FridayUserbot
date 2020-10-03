@@ -1,4 +1,4 @@
-# FRIDAY-USERBOT
+# FRIDAY-USERBOT #Written in Python 3.8.5
 
 <p align="center">
 <img src="https://telegra.ph/file/22535f8051a58af113586.jpg" alt="FRIDAY USERBOT">
